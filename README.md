@@ -2,6 +2,8 @@
 
 A machine learning web application that predicts house prices in Bangalore based on location, area, number of bedrooms, and bathrooms.
 
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/fb07247a-a0cd-4b15-8c61-182f53e81868" />
+
 ## 🚀 Features
 - Data cleaning & feature engineering
 - Outlier detection
